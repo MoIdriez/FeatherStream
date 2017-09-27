@@ -3,6 +3,8 @@
 #include <Wire.h>
 #include <WiFi101.h>
 
+#define VBATPIN A7
+
 // Serial
 bool enableSerial = true;
 
